@@ -1,0 +1,56 @@
+.about_title {
+    margin-top: 10px;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.about_subtitle {
+    font-weight: 500;
+    margin-bottom: 15px;
+    font-size: 1.5em;
+}
+
+.about_made {
+    font-weight: 600;
+}
+
+.about_description {
+    font-size: 1.17em;
+    font-weight: 500;
+}
+
+.contacts_title,
+.technologies_title {
+    font-weight: 500;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.contacts_list,
+.technologies_list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.contacts_item,
+.technologies_item {
+    margin-left: 20px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.contact_name,
+.technology {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.contact_link {
+    font-size: 20px;
+    font-weight: 500;
+    color: #281e32;
+    text-decoration: none;
+}
